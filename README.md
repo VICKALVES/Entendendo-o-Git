@@ -1,2 +1,2 @@
-# Entendendo-o-Git
-Desafio de Projeto sobre Git
+# Entendendo o Git
+Passo a Passo de como criar um repositório
